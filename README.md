@@ -2,7 +2,7 @@
 - 👀 I’m interested in remote working
 - 🌱 I’m currently learning again to programming
 - 💞️ I’m looking to collaborate on develop sofware pieces
-- 📫 How to reach me: write me to edyiurav@gmail.com
+- 📫 How to reach me: write to edyiurav@gmail.com
 
 <!---
 edithu/edithu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
